@@ -50,7 +50,7 @@
 
 ```bash
 # 1) 克隆仓库
-git clone <your-repo-url>
+git clone https://github.com/yuxuani7/VibeCoding1024.git
 cd VideCoding1024
 
 # 2) 创建并激活虚拟环境（可选但推荐）
